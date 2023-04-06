@@ -1,6 +1,6 @@
 # Data_Analysis.github.io
-University of Texas at Austin
-  Post-Graduate Program in Data Science & Business Analytics
+
+University of Texas at Austin, Post-Graduate Program in Data Science & Business Analytics
   
 Academic ePortfolio - Course Projects
 
