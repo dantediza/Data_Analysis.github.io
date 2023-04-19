@@ -1,9 +1,12 @@
 # Data_Analysis.github.io
 
-University of Texas at Austin, Post-Graduate Program in Data Science & Business Analytics
-  
-Academic ePortfolio - Course Projects
+Hi again!! 👋
 
+The python notebooks listed above correspond to their respective descriptions below. It is the collection of work as outcomes from my time with the 
+University of Texas at Austin, Post-Graduate Program in Data Science & Business Analytics. Please feel free to comment or contact me if you have feedback or questions.  Thanks!!
+  
+  
+Academic ePortfolio - Course Projects:
 
 1. FoodHub Order Analysis using Python [Python, Foundations]: 
   The food aggregator company has stored the data of the different orders made by the registered customers in their online portal. They want to analyze the data to draw some actionable insights for the business. Suppose you are hired as a Data Scientist in this company and the Data Science team has shared some of the key questions that need to be answered. Perform the data analysis to find answers to these questions that will help the company to improve the business.
