@@ -2,7 +2,7 @@
 
 Hi again!! 👋
 
-The python notebooks listed above correspond to their respective descriptions below. It is the collection of work as outcomes from my time with the 
+The python notebooks listed above correspond to their respective descriptions below. It is the collection of work and outcomes from my time with the 
 University of Texas at Austin, Post-Graduate Program in Data Science & Business Analytics. Please feel free to comment or contact me if you have feedback or questions.  Thanks!!
   
   
